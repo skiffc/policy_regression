@@ -1,4 +1,4 @@
-# Trade Record 
+# Trade History 
 
 ![playback](playback.png)
 
